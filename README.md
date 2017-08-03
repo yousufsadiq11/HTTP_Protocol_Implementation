@@ -1,5 +1,5 @@
-# HTTP_Protocol_Implementation
-HTML CLient and Server that runs a Simplified version of HTTP/1.1.
+# HTTP Protocol Implementation
+HTML Client and Server that runs a Simplified version of HTTP/1.1.
 Implemented both GET and PUT Commands using JAVA Socket programming.
 
 GET: 
